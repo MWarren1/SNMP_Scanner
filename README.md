@@ -2,7 +2,7 @@
 ###### Dependencies : Python 2.7
 ###### By Redemption.Man
 
-###### Both Scripts need to run as admin
+### ***Both Scripts need to run as admin***
 ###### KNOWN ISSUES
 ######	- port doesnt seem to matter the collector might collect DNS queries
 ######	- Scanner is too quick for the collector if their are alot of snmp devivces together
