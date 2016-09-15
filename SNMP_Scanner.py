@@ -2,18 +2,6 @@
 ## SNMP Scanner ##
 ##################
 
-#### TODO
-# Threading??
-# list of communites?
-# switch to scan only a list of ip's from text file?
-# set communites to use
-# SPEED UP!!!!
-#### DONE
-# Write only tested if public worked
-#
-#
-
-
 import argparse
 import re
 import sys
