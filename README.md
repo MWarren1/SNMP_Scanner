@@ -1,6 +1,5 @@
 # Super Quick SNMP Scanner
 ###### Dependencies : Python 2.7
-###### By Redemption.Man
 
 ### ***Both Scripts need to run as admin***
 ###### KNOWN ISSUES
